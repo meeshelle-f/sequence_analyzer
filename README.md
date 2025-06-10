@@ -129,7 +129,7 @@ visualize_gene_on_sequence(my_dna, my_gene)
 The project is organized into the following directories and files:
 
 ```
-imple_sequence_analyzer/
+simple_sequence_analyzer/
 ├── __init__.py               # Marks the directory as a Python package.
 ├── sequences.py              # Defines core biological sequence classes:
 │                             #   - `Sequence` (base class)
